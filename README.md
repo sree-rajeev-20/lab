@@ -1,1 +1,1 @@
-# lab
+# GraphTheory
